@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+*.zip
+*.tgz
+*.tar.gz
+kafka_2.13-3.9.1/
